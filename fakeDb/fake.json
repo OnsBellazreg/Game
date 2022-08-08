@@ -1,0 +1,42 @@
+{
+  "rooms": [
+    {
+      "id": "d2726a4a",
+      "name": "Room Berlin CPU",
+      "owner": "I0yZ-jSTAGV8xTNkAAAD",
+      "type": "cpu"
+    },
+    {
+      "id": "aa0c86fa",
+      "name": "Room Izmir CPU",
+      "owner": "lqcflVIEANZWYkmAAAAC",
+      "type": "cpu"
+    },
+    {
+      "id": "aa0c86fb",
+      "name": "Room Amsterdam",
+      "owner": "lqcflVIEANZWYkmAAADD",
+      "type": "human"
+    }
+  ],
+  "users": [
+    {
+      "id": "EyVNzxMGJa52CenQAACF",
+      "name": "12\\",
+      "room": "",
+      "roomType": "cpu"
+    },
+    {
+      "id": "kukgwy1M1yGQwW_NAAAF",
+      "name": "1212",
+      "room": "aa0c86fb",
+      "roomType": "human"
+    },
+    {
+      "id": "-WDvCwV8M-duMssMAAAB",
+      "name": "aaa",
+      "room": "aa0c86fb",
+      "roomType": "human"
+    }
+  ]
+}
